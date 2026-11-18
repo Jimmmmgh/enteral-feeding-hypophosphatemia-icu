@@ -1,0 +1,11 @@
+{
+  "frozen_at_utc": "2026-09-28T05:49:06.210150+00:00",
+  "stage": "before_outcome_values_or_associations",
+  "registered": false,
+  "files": {
+    "protocol.md": "75da5bc43c37bce0f6a6686126924339bfe116292df227e2c710266f9e397c5e",
+    "screening_plan.md": "dd22014203c2cf176e3c71cdf0c273e639b981dcebfaa25bf9a2ae3d6a283e60",
+    "audit/eicu_enteral_mapping_review.csv": "24f1b7030f2a2fcda3181d007eb1cefbf7b6dcc2dd49c5eda64c7cd82a8a5d39",
+    "scripts/capacity.py": "755fa37a26cb3b01026a248411e8cf7d46c5f98d6a356573497b87c10d8f28ab"
+  }
+}

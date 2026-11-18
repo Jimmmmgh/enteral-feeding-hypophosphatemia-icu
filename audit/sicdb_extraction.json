@@ -1,0 +1,35 @@
+{
+  "source": "sicdb",
+  "flow": {
+    "one_adult_admission_per_person": 21441,
+    "positive_feed_first_7_icu_days": 2132,
+    "remaining_in_icu_at_index": 1771,
+    "feed_documented_by_index": 1771,
+    "feeding_tube_documented_if_required": 1525,
+    "valid_available_baseline_phosphate": 1478,
+    "no_known_phosphate_below_2_in_previous_24h": 1315,
+    "followup_phosphate_observed": 1233,
+    "primary_events": 125,
+    "severe_events": 2,
+    "full_48h_daily_surveillance": 964
+  },
+  "invalid_units": 0,
+  "invalid_ranges": {
+    "potassium": 1
+  },
+  "source_lab_rows": 44109,
+  "availability_fallback_rows": 44109,
+  "negative_result_lag_rows": 0,
+  "conflicting_same_specimen_time_groups": 8,
+  "hospitals_observed": 1,
+  "predictor_missing_in_observed": {
+    "phosphate": 0.0,
+    "creatinine": 0.019464720194647202,
+    "magnesium": 0.0,
+    "potassium": 0.0008110300081103001,
+    "age": 0.0,
+    "bmi": 0.0032441200324412004
+  },
+  "all_baseline_specimens_not_after_index": true,
+  "feature_file_sha256": "57b80d1eb5d474f7c1ffea5e89a16a5171815bc634c3ff7b5683e79c488dbd96"
+}

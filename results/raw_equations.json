@@ -1,0 +1,37 @@
+[
+  {
+    "model": "phosphate_only",
+    "intercept": 2.306917581343629,
+    "coefficients": {
+      "phosphate": -1.3858310656530186,
+      "phosphate_rcs": 1.19714729064016
+    }
+  },
+  {
+    "model": "phosphate_creatinine",
+    "intercept": 2.7562847746567187,
+    "coefficients": {
+      "phosphate": -1.5325611082300148,
+      "phosphate_rcs": 1.0261883660601845,
+      "log_creatinine": 0.6532795957227143,
+      "creatinine_missing": 0.2718611133347749
+    }
+  },
+  {
+    "model": "six_variable",
+    "intercept": 2.9294963225435504,
+    "coefficients": {
+      "phosphate": -1.5387338676653208,
+      "phosphate_rcs": 1.0267350604030814,
+      "log_creatinine": 0.6756580276670207,
+      "creatinine_missing": 0.2422932486148939,
+      "magnesium": -0.13280541001672963,
+      "magnesium_missing": -0.40560212625182585,
+      "potassium": 0.18163920086993796,
+      "potassium_missing": -5.39571810536711,
+      "age": 0.006083669645868339,
+      "bmi": -0.03298315589249866,
+      "bmi_missing": -0.2151090191092134
+    }
+  }
+]

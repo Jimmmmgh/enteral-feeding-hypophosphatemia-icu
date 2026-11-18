@@ -1,0 +1,12 @@
+{
+  "frozen_at_utc": "2026-09-28T05:57:17.846325+00:00",
+  "stage": "development_only_before_any_external_performance",
+  "n": 5622,
+  "events": 836,
+  "model_sha256": "b706bbd4f6d46c73cd2fd2a6f5740ce7a2324c5863bd3765eb2b7686090d9be4",
+  "development_features_sha256": "0997e93742b65f26c82b778bffa083798b6a19a93d609f6d0042d41758278512",
+  "protocol_sha256": "75da5bc43c37bce0f6a6686126924339bfe116292df227e2c710266f9e397c5e",
+  "source_correction_sha256": "8354db238bb6e57477500f16eb671f4392f7a23577103427f9a19b79b0d687d1",
+  "python": "3.13.0",
+  "sklearn": "1.8.0"
+}

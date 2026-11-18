@@ -1,0 +1,10 @@
+source,model,evaluation,n,events,sparse_n_lt_5,sparse_events_lt_5,auc,analysis_scope
+mimic,phosphate_only,out_of_fold,5622,1343,False,False,0.32880296281498744,revision_sensitivity
+mimic,phosphate_creatinine,out_of_fold,5622,1343,False,False,0.3598434022187006,revision_sensitivity
+mimic,six_variable,out_of_fold,5622,1343,False,False,0.37692190835883643,revision_sensitivity
+eicu,phosphate_only,frozen_external,879,185,False,False,0.3657488901004751,revision_sensitivity
+eicu,phosphate_creatinine,frozen_external,879,185,False,False,0.3846561258665005,revision_sensitivity
+eicu,six_variable,frozen_external,879,185,False,False,0.40419814627307427,revision_sensitivity
+sicdb,phosphate_only,frozen_external,1233,214,False,False,0.2863766015793383,revision_sensitivity
+sicdb,phosphate_creatinine,frozen_external,1233,214,False,False,0.3178349673951923,revision_sensitivity
+sicdb,six_variable,frozen_external,1233,214,False,False,0.32626819403299917,revision_sensitivity

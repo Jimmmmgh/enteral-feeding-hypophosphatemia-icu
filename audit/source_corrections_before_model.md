@@ -1,0 +1,9 @@
+# Source corrections before any model fitting or predictor–outcome comparison
+
+2026-09-28. Aggregate outcome counts were already available (MIMIC 836, eICU 148, SICdb 125), but no predictive models or predictor–outcome associations had been calculated.
+
+1. PostgreSQL numeric time differences were Decimal objects, with some missing ICU end times. These are now explicitly converted to numeric floats; missing end time is ineligible, not a zero-duration stay.
+2. SICdb WeightOnAdmission stores numerical values on a gram scale (median 75000, IQR 65000–90000; increments of 5000) whereas its documentation describes five-kilogram rounding. The analysis converts the whole source column by /1000 before the prespecified plausibility limits. This unit interpretation is supported by the file's full distribution and the documented rounding, rather than by model performance. Height is already in cm. No mixed, patient-specific heuristic is used.
+3. SICdb central-lab potassium (463) alone is unavailable in 65.9% of the preliminary analytic cohort. Its laboratory table also contains arterial blood-gas potassium (685), explicitly mapped to LOINC 32713-0 and mmol/L, with 710784 source records. Item 453 has no rows. The 685 dictionary entry has no quality warning; the neighboring sodium item 686 explicitly has an unreliable-sensor warning and is not used. For SICdb potassium only, use the latest available central or arterial result, and preserve which source supplied the value. Add central-potassium-only performance as a source sensitivity. This corrects incomplete source mapping; the six predictors, model forms, endpoint and analysis hierarchy are unchanged.
+
+The original protocol and freeze hash remain unchanged. Re-extraction will replace only derived files; source data are read-only. These corrections must be disclosed in the methods supplement and implementation audit. They are not retrospectively described as part of the original pre-outcome freeze.

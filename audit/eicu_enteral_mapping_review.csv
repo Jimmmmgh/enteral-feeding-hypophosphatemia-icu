@@ -1,0 +1,576 @@
+cellpath,celllabel,records,stays,eligible_feed_label
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Nutrition Total,Nutrition Total,80752,2032,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Formula Volume/Bolus Amt (mL),Enteral Formula Volume/Bolus Amt (mL),79227,947,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Oral Intake,Oral Intake,66357,4260,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral/Gastric Tube Intake #1,Enteral/Gastric Tube Intake #1,63979,632,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|TPN,TPN,40444,681,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|P.O.,P.O.,34704,1687,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Oral,Oral,32177,3717,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN,TPN,27885,435,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Tube Feeding Flush (mL),Tube Feeding Flush (mL),22539,1131,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral,Enteral Tube Intake: Orogastric Oral,22074,320,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO fluids,PO fluids,21120,2107,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5,Enteral Pivot 1.5,20392,217,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Percutaneous endo gastrostomy,Enteral Tube Intake: Percutaneous endo gastrostomy,19943,261,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Volume Infused (mL),Volume Infused (mL),19650,209,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nepro,Enteral Nepro,18552,146,True
+flowsheet|Flowsheet Cell Labels|I&O|Output (ml)|Tube Feeding Residual Discarded (mL),Tube Feeding Residual Discarded (mL),15621,933,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R","Enteral Tube Intake: Nasoduodenal Nostril, R",15298,235,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L","Enteral Tube Intake: Nasoduodenal Nostril, L",14305,184,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Tube Feeding,Tube Feeding,13750,850,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Fluids,PO Fluids,13170,1606,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R","Enteral Tube Intake: Nasogastric Nostril, R",11107,168,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO intake,PO intake,10823,1287,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Volume (mL) TPN,Volume (mL) TPN,10324,91,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Gastrostomy tube Abdominal wa,Enteral Tube Intake: Gastrostomy tube Abdominal wa,9914,162,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds,Enteral meds,8139,412,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Intake,PO Intake,7896,982,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Oral,PO Oral,7477,3951,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L","Enteral Tube Intake: Nasogastric Nostril, L",7153,120,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds,Enteral Meds,7107,346,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO oral,PO oral,6236,2878,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Promote w/ Fiber,Enteral Promote w/ Fiber,6072,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral nepro,Enteral nepro,5921,59,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot 1.5,Enteral pivot 1.5,5850,72,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.2,Enteral Jevity 1.2,5824,70,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Perative,Enteral Perative,5228,55,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO liquids,PO liquids,5002,437,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.5,Enteral Glucerna 1.5,4884,43,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nutren 1.5,Enteral Nutren 1.5,3986,146,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO:,PO:,3892,175,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16,Enteral Tube Intake: Orogastric Oral 16,3656,61,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Fibersource,Enteral Fibersource,3643,140,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flush,Enteral Flush,3633,266,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO,PO PO,3606,409,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna,Enteral Glucerna,3214,31,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TF,Enteral TF,3074,130,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO FLUIDS,PO FLUIDS,2907,409,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO po,PO po,2847,346,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO ORAL,PO ORAL,2756,1522,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Tube Feeding:,Tube Feeding:,2726,29,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital AF 1.2,Enteral Vital AF 1.2,2573,22,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NUTREN 1.5,Enteral NUTREN 1.5,2533,79,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot,Enteral Pivot,2465,22,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral,Enteral,2454,83,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral perative,Enteral perative,2452,21,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral nutren 1.5,Enteral nutren 1.5,2443,66,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO clears,PO clears,2411,199,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|EnteralTubeFlush,EnteralTubeFlush,2405,94,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.5,Enteral Jevity 1.5,2357,42,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2cal HN,Enteral 2cal HN,2340,15,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flush,Enteral flush,2305,187,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Fat emulsion,Fat emulsion,2249,127,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 Cal HN,Enteral 2 Cal HN,2226,27,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Crystalloids (ml)|TPN,TPN,2215,43,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 16","Enteral Tube Intake: Nasogastric Nostril, R 16",2157,30,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO clear liquids,PO clear liquids,2119,171,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 cal HN,Enteral 2 cal HN,2079,19,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Liquids,PO Liquids,2045,207,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Tube Feeding Flushes (mL),Tube Feeding Flushes (mL),2005,139,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube Feed,Enteral Tube Feed,1998,55,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube Feeding,Enteral Tube Feeding,1925,514,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 16","Enteral Tube Intake: Nasogastric Nostril, L 16",1876,23,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Other,Enteral Other,1840,786,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO po fluids,PO po fluids,1776,173,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Other Intake,Other Intake,1765,420,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10","Enteral Tube Intake: Nasoduodenal Nostril, R 10",1746,31,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Promote,Enteral Promote,1696,18,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolite 1.5,Enteral Osmolite 1.5,1660,19,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5cal,Enteral Pivot 1.5cal,1622,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Replete,Enteral Replete,1618,111,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN w/fat emulsion,TPN w/fat emulsion,1609,144,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Intake, Tube Feeding Amount","Intake, Tube Feeding Amount",1587,153,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO fluid,PO fluid,1509,187,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital AF,Enteral Vital AF,1486,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NG/GT,Enteral NG/GT,1470,469,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|TUBE FEED FLUSH,TUBE FEED FLUSH,1436,117,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO  ,PO  ,1434,218,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral glucerna 1.5,Enteral glucerna 1.5,1430,20,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube Flush,Enteral Tube Flush,1422,516,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10F","Enteral Tube Intake: Nasoduodenal Nostril, R 10F",1406,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO INTAKE,PO INTAKE,1406,184,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube feeding,Enteral tube feeding,1370,395,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral other,Enteral other,1359,513,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jevity 1.5,Enteral jevity 1.5,1341,19,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Tube Feeding Amount,Tube Feeding Amount,1340,89,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Fat emulsion 20%,Fat emulsion 20%,1314,65,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 12","Enteral Tube Intake: Nasoduodenal Nostril, R 12",1306,20,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NEPRO,Enteral NEPRO,1295,14,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube feeds,Enteral tube feeds,1290,48,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Novasource Renal,Enteral Novasource Renal,1266,35,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 18,Enteral Tube Intake: Orogastric Oral 18,1258,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric,Enteral Tube Intake: Orogastric,1229,19,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10","Enteral Tube Intake: Nasoduodenal Nostril, L 10",1182,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cardiac,PO cardiac,1173,99,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral glucerna,Enteral glucerna,1159,15,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT flush,Enteral OGT flush,1158,90,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube feed,Enteral tube feed,1152,57,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Two Cal HN,Enteral Two Cal HN,1140,12,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO diet,PO diet,1130,95,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Tube feeding,Tube feeding,1118,43,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Peptamen,Enteral Peptamen,1098,24,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jevity 1.2,Enteral jevity 1.2,1083,16,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2calHN,Enteral 2calHN,1075,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Fluid,PO Fluid,1063,133,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cardiac diet,PO cardiac diet,1059,57,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds/flush,Enteral meds/flush,1056,74,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral osmolite 1.5,Enteral osmolite 1.5,1040,10,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral ng/gt,Enteral ng/gt,1037,341,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube Feeds,Enteral Tube Feeds,1019,32,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.2,Enteral Glucerna 1.2,1017,14,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Lipid Intake Amount,Lipid Intake Amount,1007,148,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO oral intake,PO oral intake,994,160,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Jejunostomy Abdominal wall,Enteral Tube Intake: Jejunostomy Abdominal wall,982,22,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Water via tube:,Water via tube:,979,44,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube feeds,Enteral Tube feeds,974,31,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Transgastric-Jejunal Abdomina,Enteral Tube Intake: Transgastric-Jejunal Abdomina,969,19,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PPN/TNA/TPN,PPN/TNA/TPN,959,59,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free Water,Enteral Free Water,957,46,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral  Nepro,Enteral  Nepro,955,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot1.5,Enteral pivot1.5,954,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PPN,PPN,947,29,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT meds,Enteral OGT meds,935,52,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tubefeed,Enteral Tubefeed,926,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2Cal HN,Enteral 2Cal HN,911,18,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Peptamen AF,Enteral Peptamen AF,910,24,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO liqs,PO liqs,910,65,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nutren,Enteral Nutren,908,41,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral water flushes,Enteral water flushes,903,58,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity,Enteral Jevity,893,13,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral water flush,Enteral water flush,879,58,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube flush,Enteral tube flush,863,357,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Feed,Enteral Feed,854,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT Flush,Enteral OGT Flush,852,42,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake,Enteral Tube Intake,850,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Fibersource HN,Enteral Fibersource HN,849,45,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Clears,PO Clears,829,62,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 12 fr","Enteral Tube Intake: Nasoduodenal Nostril, R 12 fr",810,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Oral,Enteral Tube Intake: Nasogastric Oral,792,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO po intake,PO po intake,773,123,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FLUSH,Enteral FLUSH,769,71,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Twocal,Enteral Twocal,767,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Regular,PO Regular,755,67,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TUBE FEEDING,Enteral TUBE FEEDING,752,299,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO meds,PO meds,751,76,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Cardiac,PO Cardiac,751,48,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TUBE FEED,Enteral TUBE FEED,748,13,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free water,Enteral Free water,746,38,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral fibersource,Enteral fibersource,740,23,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 12","Enteral Tube Intake: Nasoduodenal Nostril, L 12",735,8,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10F","Enteral Tube Intake: Nasoduodenal Nostril, L 10F",732,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral MEDS,Enteral MEDS,727,53,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital 1.2,Enteral Vital 1.2,724,8,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot,Enteral pivot,723,13,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO -,PO -,721,23,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Feeds,Enteral Feeds,721,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral feed,Enteral feed,718,23,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10 fr","Enteral Tube Intake: Nasoduodenal Nostril, R 10 fr",711,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Percutaneous endo jejunostomy,Enteral Tube Intake: Percutaneous endo jejunostomy,678,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NOVASOURCE RENAL,Enteral NOVASOURCE RENAL,678,14,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral fibersource HN,Enteral fibersource HN,675,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 14,Enteral Tube Intake: Orogastric Oral 14,672,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Promote with fiber,Enteral Promote with fiber,668,9,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds/Flushes,Enteral Meds/Flushes,660,36,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TUBE FLUSH,Enteral TUBE FLUSH,653,316,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolte 1.5,Enteral Osmolte 1.5,652,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral :Pivot 1.5,Enteral :Pivot 1.5,652,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Oral Intake,PO Oral Intake,642,76,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2CalHN,Enteral 2CalHN,642,9,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral WATER FLUSH,Enteral WATER FLUSH,634,23,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|TPN Volume,TPN Volume,633,34,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.5 ,Enteral Glucerna 1.5 ,612,6,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10 Fr","Enteral Tube Intake: Nasoduodenal Nostril, R 10 Fr",607,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Impact Peptide 1.5,Enteral Impact Peptide 1.5,606,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO regular diet,PO regular diet,595,55,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free H2O,Enteral Free H2O,590,28,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TwoCalHN,Enteral TwoCalHN,588,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN/PPN Intake Amount,TPN/PPN Intake Amount,584,26,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds/flushes,Enteral meds/flushes,579,25,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO liquid,PO liquid,578,46,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolyte 1.5,Enteral Osmolyte 1.5,576,4,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10 Fr","Enteral Tube Intake: Nasoduodenal Nostril, L 10 Fr",566,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral free water,Enteral free water,559,39,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Cardiac Diet,PO Cardiac Diet,552,42,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free H20,Enteral Free H20,546,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FWF,Enteral FWF,544,56,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Isosource,Enteral Isosource,542,45,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT meds/flush,Enteral OGT meds/flush,540,35,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Clear liquids,PO Clear liquids,540,49,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2CAL HN,Enteral 2CAL HN,540,6,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT flush/meds,Enteral OGT flush/meds,538,43,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital High Protien,Enteral Vital High Protien,529,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube feed,Enteral Tube feed,524,34,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 10","Enteral Tube Intake: Nasogastric Nostril, L 10",516,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 calHN,Enteral 2 calHN,512,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolite 1.2,Enteral Osmolite 1.2,509,8,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral fibersource hn,Enteral fibersource hn,506,7,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flush with meds,Enteral flush with meds,504,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.2 ,Enteral Jevity 1.2 ,500,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Meds,PO Meds,497,53,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TPN,Enteral TPN,494,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1,Enteral Jevity 1,493,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral WATER FLUSHES,Enteral WATER FLUSHES,487,37,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Water Flush,Enteral Water Flush,487,33,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Water flush,Enteral Water flush,478,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flush/Meds,Enteral Flush/Meds,477,30,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16F,Enteral Tube Intake: Orogastric Oral 16F,475,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral ngt,Enteral ngt,473,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2calhn,Enteral 2calhn,467,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO regular,PO regular,453,54,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Oral intake,PO Oral intake,451,60,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital AF 1.2,Enteral vital AF 1.2,451,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital af 1.2,Enteral vital af 1.2,444,4,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 12 Fr","Enteral Tube Intake: Nasoduodenal Nostril, R 12 Fr",439,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nepro ,Enteral Nepro ,428,3,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10Fr","Enteral Tube Intake: Nasoduodenal Nostril, L 10Fr",427,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds/Flush,Enteral Meds/Flush,421,28,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Fibersource HL,Enteral Fibersource HL,419,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral isosource,Enteral isosource,418,16,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Clear Liquids,PO Clear Liquids,417,43,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 16F","Enteral Tube Intake: Nasogastric Nostril, R 16F",409,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.5 40ml/hour,Enteral Glucerna 1.5 40ml/hour,398,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flushes,Enteral flushes,396,27,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Water flushes,Enteral Water flushes,391,35,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16 fr,Enteral Tube Intake: Orogastric Oral 16 fr,390,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Novasource,Enteral Novasource,387,26,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral enteral meds,Enteral enteral meds,381,21,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Intake ,PO Intake ,379,62,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO intake,PO PO intake,377,55,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Gastrostomy tube,Enteral Tube Intake: Gastrostomy tube,376,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Feeding tube,PO Feeding tube,372,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 12,Enteral Tube Intake: Orogastric Oral 12,371,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Regular diet,PO Regular diet,371,40,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pulmocare,Enteral Pulmocare,371,8,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital,Enteral Vital,370,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.0,Enteral Jevity 1.0,359,13,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT,Enteral OGT,356,26,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Fluids ,PO Fluids ,352,19,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 Goal 65cc/hr,Enteral Pivot 1.5 Goal 65cc/hr,345,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube feeding,Enteral Tube feeding,343,38,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flushes,Enteral Flushes,339,22,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral water w/meds,Enteral water w/meds,338,4,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Intake, TPN/PPN Amount","Intake, TPN/PPN Amount",336,62,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Fluid intake,PO Fluid intake,336,28,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.0,Enteral Glucerna 1.0,335,6,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN:,TPN:,333,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pertive,Enteral pertive,328,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Oxepa,Enteral Oxepa,326,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FIBERSOURCE HN,Enteral FIBERSOURCE HN,323,7,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Transgastric-Jejunal Nostril,","Enteral Tube Intake: Transgastric-Jejunal Nostril,",321,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nepro tube feeds,Enteral Nepro tube feeds,319,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN w/fat emulsion 20%,TPN w/fat emulsion 20%,319,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Lipids:,Lipids:,318,6,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10f","Enteral Tube Intake: Nasoduodenal Nostril, R 10f",312,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flush/meds,Enteral flush/meds,311,31,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital high protein,Enteral vital high protein,308,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 CAL/HN ,Enteral 2 CAL/HN ,304,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO LIQUIDS,PO LIQUIDS,304,52,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jevity1.2,Enteral jevity1.2,302,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral osmolyte 1.2,Enteral osmolyte 1.2,301,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vivonex,Enteral Vivonex,298,5,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 12F","Enteral Tube Intake: Nasogastric Nostril, L 12F",298,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Perrative,Enteral Perrative,297,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Protein Powder,Enteral Protein Powder,297,29,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FEED,Enteral FEED,295,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H2O,Enteral H2O,295,26,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 14","Enteral Tube Intake: Nasoduodenal Nostril, L 14",290,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Promote with Fiber,Enteral Promote with Fiber,288,4,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10fr","Enteral Tube Intake: Nasoduodenal Nostril, L 10fr",287,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free water flush,Enteral Free water flush,281,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H2O flush,Enteral H2O flush,280,21,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral PEG flush,Enteral PEG flush,279,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO reg diet,PO reg diet,279,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO FLUIDS,PO PO FLUIDS,279,29,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 8 Fr","Enteral Tube Intake: Nasoduodenal Nostril, R 8 Fr",278,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Fluid Intake,PO Fluid Intake,278,31,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO Fluids,PO PO Fluids,277,24,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.2 goal 45ml/hour,Enteral Jevity 1.2 goal 45ml/hour,277,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16f,Enteral Tube Intake: Orogastric Oral 16f,276,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Diet,PO Diet,276,51,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1cal,Enteral Jevity 1cal,274,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral glycerna,Enteral glycerna,272,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Water Flushes,Enteral Water Flushes,272,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H20 FLUSH,Enteral H20 FLUSH,271,14,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FLUSH/MEDS,Enteral FLUSH/MEDS,271,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16 FR,Enteral Tube Intake: Orogastric Oral 16 FR,270,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral replete,Enteral replete,270,14,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OG Flush,Enteral OG Flush,269,19,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glycerna 1.5,Enteral Glycerna 1.5,269,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO fluid intake,PO fluid intake,268,36,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Regular Diet,PO Regular Diet,268,28,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT Meds,Enteral NGT Meds,264,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Cardiac diet,PO Cardiac diet,264,32,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds/flush,Enteral Meds/flush,264,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT flush,Enteral NGT flush,262,31,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OG flush,Enteral OG flush,262,27,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 14","Enteral Tube Intake: Nasogastric Nostril, R 14",262,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Water,Enteral Water,259,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Tube feeds ,Enteral Tube feeds ,257,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral glucerna 1.2,Enteral glucerna 1.2,255,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO ADA diet,PO ADA diet,254,15,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Jejunostomy Abdominal wall 16,Enteral Tube Intake: Jejunostomy Abdominal wall 16,254,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16fr,Enteral Tube Intake: Orogastric Oral 16fr,253,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral free water flush,Enteral free water flush,251,24,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Nourish/Supplemt,Nourish/Supplemt,250,113,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO free water,PO free water,249,6,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 12fr","Enteral Tube Intake: Nasogastric Nostril, L 12fr",248,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 CAL HN,Enteral 2 CAL HN,248,5,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 10 Fr.","Enteral Tube Intake: Nasogastric Nostril, R 10 Fr.",247,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT meds,Enteral NGT meds,247,12,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 16fr","Enteral Tube Intake: Nasogastric Nostril, R 16fr",246,5,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 18","Enteral Tube Intake: Nasogastric Nostril, R 18",245,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot 1.5 ,Enteral pivot 1.5 ,245,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 14F,Enteral Tube Intake: Orogastric Oral 14F,244,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO .,PO .,242,41,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO sips,PO sips,241,22,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolyte ,Enteral Osmolyte ,241,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral peptamen AF,Enteral peptamen AF,240,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral JEVITY 1.2,Enteral JEVITY 1.2,240,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral gt meds,Enteral gt meds,239,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital AF,Enteral vital AF,237,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H2O flushes,Enteral H2O flushes,235,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot  1.5,Enteral Pivot  1.5,235,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital high protein,Enteral Vital high protein,234,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral promote,Enteral promote,233,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Two- Cal HN,Enteral Two- Cal HN,232,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot  1.5,Enteral pivot  1.5,232,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral perative goal 75/hr,Enteral perative goal 75/hr,226,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 Cal HN ,Enteral 2 Cal HN ,225,2,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nostril, R 10fr","Enteral Tube Intake: Nostril, R 10fr",224,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Fibersource TF,Enteral Fibersource TF,223,13,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivit 1.5 goal 55ml/hr,Enteral Pivit 1.5 goal 55ml/hr,221,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cardiac diabetic,PO cardiac diabetic,221,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Novasource renal,Enteral Novasource renal,220,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO fluids,PO PO fluids,220,32,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral ogt flush,Enteral ogt flush,219,22,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO OGT Flush,PO OGT Flush,218,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 TF,Enteral Pivot 1.5 TF,218,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 18fr,Enteral Tube Intake: Orogastric Oral 18fr,217,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Oral ,PO Oral ,216,39,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO ice chips,PO ice chips,216,29,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Isosource HN,Enteral Isosource HN,216,13,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10fr","Enteral Tube Intake: Nasoduodenal Nostril, R 10fr",213,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO intake ,PO intake ,213,27,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cl liqs,PO cl liqs,211,16,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H20 Flush,Enteral H20 Flush,210,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free Water Flush,Enteral Free Water Flush,210,14,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO nutren 1.5,PO nutren 1.5,210,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|% Nutrition Supplement Taken,% Nutrition Supplement Taken,208,116,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO reg,PO reg,207,9,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 12fr","Enteral Tube Intake: Nasoduodenal Nostril, L 12fr",207,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2CALHN,Enteral 2CALHN,207,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Med Flush,Enteral Med Flush,206,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|fibersource,fibersource,205,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Piviot 1.5,Enteral Piviot 1.5,204,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TUBE FEED FLUSH,Enteral TUBE FEED FLUSH,203,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TUBE FEEDS,Enteral TUBE FEEDS,202,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cardiac liquids,PO cardiac liquids,202,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Replete TF,Enteral Replete TF,202,20,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TFs,Enteral TFs,201,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral w/ meds,Enteral w/ meds,200,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds h2o flush,Enteral meds h2o flush,199,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO ADA,PO ADA,199,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral PIVOT 1.5,Enteral PIVOT 1.5,198,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FEEDS,Enteral FEEDS,197,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral free H2O,Enteral free H2O,197,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral PERATIVE,Enteral PERATIVE,196,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Sump Oral 16,Enteral Tube Intake: Sump Oral 16,196,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nepro TF,Enteral Nepro TF,195,3,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10 fr","Enteral Tube Intake: Nasoduodenal Nostril, L 10 fr",194,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral water via feeding tube,Enteral water via feeding tube,194,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolite,Enteral Osmolite,194,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital High Protein,Enteral Vital High Protein,192,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Diabetic Diet,PO Diabetic Diet,191,15,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Tube Feeding Intake (mL)-Tube Feeding Intake (mL),Tube Feeding Intake (mL)-Tube Feeding Intake (mL),190,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jtube meds & flush ,Enteral Jtube meds & flush ,190,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TF Pivot 1.5 ,Enteral TF Pivot 1.5 ,190,1,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 10","Enteral Tube Intake: Nasogastric Nostril, R 10",188,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO FLUID,PO PO FLUID,188,20,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10FR","Enteral Tube Intake: Nasoduodenal Nostril, L 10FR",188,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds/ flush,Enteral meds/ flush,187,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TF Flush,Enteral TF Flush,187,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jev 1.2,Enteral jev 1.2,186,2,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10Fr","Enteral Tube Intake: Nasoduodenal Nostril, R 10Fr",186,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital AF 1.5,Enteral Vital AF 1.5,185,1,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 8 FR","Enteral Tube Intake: Nasogastric Nostril, L 8 FR",184,1,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 18fr","Enteral Tube Intake: Nasogastric Nostril, L 18fr",184,3,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 12 Fr","Enteral Tube Intake: Nasoduodenal Nostril, L 12 Fr",183,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral  ,Enteral  ,180,16,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 16 fr","Enteral Tube Intake: Nasogastric Nostril, L 16 fr",180,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO oral fluids,PO oral fluids,179,24,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral nutren,Enteral nutren,179,8,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 10 FR","Enteral Tube Intake: Nasoduodenal Nostril, R 10 FR",179,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NG flush,Enteral NG flush,178,16,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OXEPA,Enteral OXEPA,178,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral osmolyte,Enteral osmolyte,178,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral h20 flush,Enteral h20 flush,178,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN with insulin,TPN with insulin,177,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nutren ,Enteral Nutren ,177,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna ,Enteral Glucerna ,177,4,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Perative ,Enteral Perative ,176,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OGT Meds/Flush,Enteral OGT Meds/Flush,176,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Feeding,Enteral Feeding,176,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral novasource renal,Enteral novasource renal,175,11,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FIbersource,Enteral FIbersource,174,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot ,Enteral Pivot ,173,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)| nutren 1.5, nutren 1.5,173,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube feeds via gt,Enteral tube feeds via gt,173,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolyte 1.2,Enteral Osmolyte 1.2,171,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO INTAKE,PO PO INTAKE,170,28,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FREE WATER,Enteral FREE WATER,170,8,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 8","Enteral Tube Intake: Nasoduodenal Nostril, R 8",170,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Two CAL HN,Enteral Two CAL HN,169,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Reg,PO Reg,169,6,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10f","Enteral Tube Intake: Nasoduodenal Nostril, L 10f",168,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 16Fr,Enteral Tube Intake: Orogastric Oral 16Fr,167,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO cl liq,PO cl liq,166,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot goal of 40ml/hr,Enteral Pivot goal of 40ml/hr,165,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Perative 40ml/hour,Enteral Perative 40ml/hour,165,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TWO CALHN,Enteral TWO CALHN,163,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Fluids,Enteral Fluids,162,20,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10 FR","Enteral Tube Intake: Nasoduodenal Nostril, L 10 FR",162,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tubefeeding,Enteral tubefeeding,162,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Liquid,PO Liquid,162,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Diabetic diet,PO Diabetic diet,161,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral  feed,Enteral  feed,160,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Nepro goal 40ml/hour,Enteral Nepro goal 40ml/hour,160,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral nepro ,Enteral nepro ,159,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital af 1.2 ,Enteral vital af 1.2 ,158,1,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 14","Enteral Tube Intake: Nasogastric Nostril, L 14",157,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO WATER,PO WATER,157,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|enteral meds,enteral meds,157,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO liquid intake,PO liquid intake,156,15,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral feeds,Enteral feeds,156,19,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Perravtive,Enteral Perravtive,156,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO clear liquid,PO clear liquid,155,16,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral meds flushes,Enteral meds flushes,154,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jevity,Enteral jevity,154,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H2O Flush,Enteral H2O Flush,154,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO clear lixs,PO clear lixs,153,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Clear liquid,PO Clear liquid,152,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral free water flushes,Enteral free water flushes,152,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral protein powder,Enteral protein powder,151,20,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 12 Fr.,Enteral Tube Intake: Orogastric Oral 12 Fr.,151,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO Liquids,PO PO Liquids,151,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Enteral,Enteral Enteral,151,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO OGT,PO OGT,150,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Peptamen ,Enteral Peptamen ,149,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO diabetic diet,PO diabetic diet,148,18,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Novasource Renal ,Enteral Novasource Renal ,147,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral novosource renal ,Enteral novosource renal ,147,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT meds/ flush,Enteral NGT meds/ flush,146,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO water,PO water,146,25,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FLUSHES,Enteral FLUSHES,144,13,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TwoCal HN,Enteral TwoCal HN,144,5,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 cal HN ,Enteral 2 cal HN ,144,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Crystalloids (ml)|tpn,tpn,143,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral pivot 1.5 @ 25ml/hr,Enteral pivot 1.5 @ 25ml/hr,142,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Cardiac/Diabetic Diet,PO Cardiac/Diabetic Diet,142,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral PEG Flush,Enteral PEG Flush,142,5,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 cal Hn,Enteral 2 cal Hn,140,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Glucerna 1.5 Cal.,Enteral Glucerna 1.5 Cal.,138,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral VITAL AF 1.2,Enteral VITAL AF 1.2,138,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Osmolite 1.2 ,Enteral Osmolite 1.2 ,137,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|TPN with H2 Blocker,TPN with H2 Blocker,136,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO Intake,PO PO Intake,135,15,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Nostril, R 16 Fr","Enteral Tube Intake: Orogastric Nostril, R 16 Fr",135,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral piviot 1.5,Enteral piviot 1.5,135,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Water,PO Water,134,27,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flushes/meds,Enteral flushes/meds,133,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT Nepro,Enteral NGT Nepro,133,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivit 1.5,Enteral Pivit 1.5,132,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral piviot,Enteral piviot,132,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 ,Enteral Pivot 1.5 ,132,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Isosource TF,Enteral Isosource TF,131,14,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO reg diet ,PO reg diet ,130,4,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 16f","Enteral Tube Intake: Nasogastric Nostril, L 16f",130,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral GLUCERNA 1.2,Enteral GLUCERNA 1.2,129,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 via J-tube,Enteral Pivot 1.5 via J-tube,129,2,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 18","Enteral Tube Intake: Nasogastric Nostril, L 18",129,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral med flushes,Enteral med flushes,128,14,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO FL,PO FL,128,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral af vital,Enteral af vital,128,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flush/meds,Enteral Flush/meds,127,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Hepament,Enteral Hepament,127,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 Goal 45,Enteral Pivot 1.5 Goal 45,127,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral feeding,Enteral feeding,127,10,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO liq,PO liq,126,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral JEVITY 1.5,Enteral JEVITY 1.5,125,6,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral flush ,Enteral flush ,125,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Fibersource ,Fibersource ,124,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral jevity 1.5 ,Enteral jevity 1.5 ,124,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Oroduodenal Oral,Enteral Tube Intake: Oroduodenal Oral,124,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Glucerna 1.0,PO Glucerna 1.0,123,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds via NGT,Enteral Meds via NGT,122,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral OTHER,Enteral OTHER,122,70,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral oxepa,Enteral oxepa,122,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Two Cal HN-goal 35cc/hr,Enteral Two Cal HN-goal 35cc/hr,121,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Two Kal HN,Enteral Two Kal HN,121,1,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nostril, L","Enteral Tube Intake: Nostril, L",121,1,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 10 F","Enteral Tube Intake: Nasoduodenal Nostril, L 10 F",120,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO lix,PO lix,119,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 14Fr,Enteral Tube Intake: Orogastric Oral 14Fr,119,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO 1800 ADA,PO 1800 ADA,117,15,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral free h20 ,Enteral free h20 ,116,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral  Perative,Enteral  Perative,116,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral meds,Enteral meds,116,10,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 8fr","Enteral Tube Intake: Nasoduodenal Nostril, R 8fr",115,6,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 8 FR","Enteral Tube Intake: Nasoduodenal Nostril, R 8 FR",115,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NGT meds/flush,Enteral NGT meds/flush,115,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO po fluid,PO po fluid,114,23,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO low Na. fluid restrict,PO low Na. fluid restrict,114,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO po diet,PO po diet,114,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H2O FLUSH,Enteral H2O FLUSH,113,11,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.5 TF,Enteral Jevity 1.5 TF,113,1,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 8FR","Enteral Tube Intake: Nasoduodenal Nostril, R 8FR",113,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Orogastric Oral 18 F,Enteral Tube Intake: Orogastric Oral 18 F,113,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H20 with meds,Enteral H20 with meds,113,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO reg liqs,PO reg liqs,112,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vivonex,Enteral vivonex,112,2,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, L 55cm","Enteral Tube Intake: Nasoduodenal Nostril, L 55cm",111,1,False
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, L 1","Enteral Tube Intake: Nasogastric Nostril, L 1",111,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Oxepa TF,Enteral Oxepa TF,111,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO :,PO :,111,12,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO  OGT meds,PO  OGT meds,111,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free water flushes,Enteral Free water flushes,111,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral 2 cal,Enteral 2 cal,110,1,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasoduodenal Nostril, R 12fr","Enteral Tube Intake: Nasoduodenal Nostril, R 12fr",110,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO food,PO food,110,14,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pulmacare,Enteral Pulmacare,108,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 via OG Tube,Enteral Pivot 1.5 via OG Tube,108,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral tube feeds - nepro,Enteral tube feeds - nepro,107,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO sips of clears,PO sips of clears,107,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO clear liq,PO clear liq,106,9,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral H20 w/ meds,Enteral H20 w/ meds,106,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Vital 1.5 goal 56ml,Enteral Vital 1.5 goal 56ml,106,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Jevity 1.2via G-tube,Enteral Jevity 1.2via G-tube,106,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral FIBERSOURCE HN ,Enteral FIBERSOURCE HN ,105,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flushes and meds,Enteral Flushes and meds,104,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral nutri-hep,Enteral nutri-hep,103,1,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral two cal HN ,Enteral two cal HN ,103,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO fluids ,PO fluids ,103,17,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Free H20 ,Enteral Free H20 ,103,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Flush/ Meds,PO Flush/ Meds,103,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Meds ,Enteral Meds ,103,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 goal 45ml/hour,Enteral Pivot 1.5 goal 45ml/hour,103,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral glucerna 1.5 ,Enteral glucerna 1.5 ,103,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO PO fluid,PO PO fluid,103,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral osmolite 1.2,Enteral osmolite 1.2,103,2,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivol 1.5,Enteral Pivol 1.5,102,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral vital 1.2,Enteral vital 1.2,102,2,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 16FR","Enteral Tube Intake: Nasogastric Nostril, R 16FR",102,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Renal,PO Renal,101,8,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|PO Nectar thick,PO Nectar thick,101,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral GLUCERNA,Enteral GLUCERNA,101,3,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral fibersource ,Enteral fibersource ,101,3,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 8F","Enteral Tube Intake: Nasogastric Nostril, R 8F",101,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Isosource 1.5,Enteral Isosource 1.5,101,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral TF flush,Enteral TF flush,100,6,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Flushes/Meds,Enteral Flushes/Meds,100,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral PEG flush/meds,Enteral PEG flush/meds,100,4,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 via GT,Enteral Pivot 1.5 via GT,100,1,True
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral NOVASOURCE,Enteral NOVASOURCE,100,6,True
+"flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Generic Intake (ml)|Enteral Tube Intake: Nasogastric Nostril, R 10F","Enteral Tube Intake: Nasogastric Nostril, R 10F",100,3,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral peg tube,Enteral peg tube,100,2,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral ogt meds/flushes,Enteral ogt meds/flushes,100,7,False
+flowsheet|Flowsheet Cell Labels|I&O|Intake (ml)|Nutrition (ml)|Enteral Pivot 1.5 per gtube,Enteral Pivot 1.5 per gtube,100,1,True

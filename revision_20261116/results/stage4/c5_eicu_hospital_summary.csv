@@ -1,0 +1,2 @@
+n_sites,sites_with_any_missing,fraction_missing_in_top_5_sites,fraction_missing_in_top_10_sites,fraction_missing_by_site_median,fraction_missing_by_site_q1,fraction_missing_by_site_q3
+51,51,0.6257253384912959,0.7359767891682785,0.575,0.25,0.7733942414174972

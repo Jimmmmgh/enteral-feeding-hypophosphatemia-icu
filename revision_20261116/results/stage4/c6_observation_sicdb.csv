@@ -1,0 +1,4 @@
+source,cohort,n,n_truncated,truncated_death_documented,truncated_icu_exit_no_death_documented,truncated_metavision_case_closure_no_death_documented,truncated_status_unknown,case_closure_unknown_icu_discharge_status_subset,elapsed_hours_q1,elapsed_hours_median,elapsed_hours_q3,minimum_hours,maximum_hours,small_cells
+sicdb,all_eligible,1315,298,52,0,246,0,17,48.0,48.0,48.0,0.20000000000000284,48.0,truncated_icu_exit_no_death_documented; truncated_status_unknown
+sicdb,followup_tested,1233,224,30,0,194,0,14,48.0,48.0,48.0,3.2166666666666544,48.0,truncated_icu_exit_no_death_documented; truncated_status_unknown
+sicdb,followup_untested,82,74,22,0,52,0,3,2.5333333333333243,4.099999999999998,7.8624999999999865,0.20000000000000284,48.0,truncated_icu_exit_no_death_documented; truncated_status_unknown; case_closure_unknown_icu_discharge_status_subset
